@@ -50,7 +50,7 @@ To create the solid model from given drawing and section the solid model
 
 12.Convert the 3D model into a drawing by clicking the Design workspace dropdown in the top-left corner, selecting Drawing -> From Design, choosing your sheet size, and clicking to place your base and projected views on the page.
 
-<img width="503" height="605" alt="Screenshot 2026-11-03 211338" src="https://github.com/user-attachments/assets/54e89341-e89f-48ba-88c7-6799549528e5" />
+<img width="284" height="453" alt="Screenshot 2026-10-11 172436" src="https://github.com/user-attachments/assets/8736867e-42f5-48d4-8441-5ee815456d82" />
 <img width="415" height="462" alt="Screenshot 2026-10-11 172509" src="https://github.com/user-attachments/assets/d1da251b-c188-4fdb-ad00-9df6b00fde5f" />
 
 
